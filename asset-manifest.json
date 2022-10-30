@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/github.io/uts-react/static/css/main.31040951.css",
-    "main.js": "/github.io/uts-react/static/js/main.8567325a.js",
+    "main.js": "/github.io/uts-react/static/js/main.6f47f598.js",
+    "static/media/portofolio.png": "/github.io/uts-react/static/media/portofolio.0a50fc448e633d2fbccf.png",
     "static/media/me3.png": "/github.io/uts-react/static/media/me3.94e9358e5816d3b8b7fa.png",
-    "static/media/fb-clone.png": "/github.io/uts-react/static/media/fb-clone.ace3a079122d1dd4c08d.png",
     "static/media/CV NANANG.pdf": "/github.io/uts-react/static/media/CV NANANG.de4fc1ad57cf6d69eba0.pdf",
     "index.html": "/github.io/uts-react/index.html",
     "main.31040951.css.map": "/github.io/uts-react/static/css/main.31040951.css.map",
-    "main.8567325a.js.map": "/github.io/uts-react/static/js/main.8567325a.js.map"
+    "main.6f47f598.js.map": "/github.io/uts-react/static/js/main.6f47f598.js.map"
   },
   "entrypoints": [
     "static/css/main.31040951.css",
-    "static/js/main.8567325a.js"
+    "static/js/main.6f47f598.js"
   ]
 }
