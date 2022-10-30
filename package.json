@@ -37,6 +37,10 @@
       "last 1 safari version"
     ]
   },
+  "engines": {
+    "node": "v16.17.1",
+    "npm": "8.15.0"
+  },
   "devDependencies": {
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.8",
     "react-refresh": "^0.14.0"
