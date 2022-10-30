@@ -1,13 +1,13 @@
 import React from 'react'
 import './Portofolio.css'
 
-import IMG1 from '../../assets/fb-clone.png'
+import IMG1 from '../../assets/portofolio.png'
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Facebook Clone',
+    title: 'Website Portofolio',
     github: 'https://github.com/Hvdri/fb-clone2',
   }
 ]
